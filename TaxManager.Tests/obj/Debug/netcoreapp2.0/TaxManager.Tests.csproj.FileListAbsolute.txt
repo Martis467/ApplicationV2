@@ -1,0 +1,16 @@
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.Tests.deps.json
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.Tests.runtimeconfig.json
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.Tests.runtimeconfig.dev.json
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.Tests.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.pdb
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\obj\Debug\netcoreapp2.0\TaxManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\obj\Debug\netcoreapp2.0\TaxManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\obj\Debug\netcoreapp2.0\TaxManager.Tests.AssemblyInfoInputs.cache
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\obj\Debug\netcoreapp2.0\TaxManager.Tests.AssemblyInfo.cs
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\bin\Debug\netcoreapp2.0\TaxManager.Tests.pdb
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\obj\Debug\netcoreapp2.0\TaxManager.Tests.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager.Tests\obj\Debug\netcoreapp2.0\TaxManager.Tests.pdb
